@@ -29,5 +29,4 @@ In conversation you need to know a specific conjugation on the spot, without men
 - [ ] database
 	- [x] browse for database options
  	- [ ] add test database of two verbs with SQLite
-  - [ ] 
 - [ ] test and delete gramatically impossible times
