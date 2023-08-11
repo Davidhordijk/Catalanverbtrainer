@@ -153,5 +153,3 @@ result_label.grid(row=10, column=1, columnspan=2, padx=5, pady=5)
 
 # Start the main event loop
 root.mainloop()
-
-## add a comment
