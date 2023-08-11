@@ -25,7 +25,7 @@ In conversation you need to know a specific conjugation on the spot, without men
 	- [ ] 	Make window stable
 	- [ ] 	Keyword i.o. sentence output
  	- [ ] 	User input: enter to show answer
-        - [ ]   User input: wrong answer: "<- arrow" right answer: "-> arrow"
+	- [ ] 	User input: wrong answer: "<- arrow" right answer: "-> arrow"
 - [ ] database
 	- [x] browse for database options
  	- [ ] add test database of two verbs with SQLite
