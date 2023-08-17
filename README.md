@@ -28,5 +28,10 @@ In conversation you need to know a specific conjugation on the spot, without men
 	- [ ] 	User input: wrong answer: "<- arrow" right answer: "-> arrow"
 - [ ] database
 	- [x] browse for database options
- 	- [ ] add test database of two verbs with SQLite
+ 	- [o] add test database of three verbs with SQLite
+        - [x] think of database structure and headers
+
+
+Later:
+- [ ] Think of logical place for gerundi's, past/present/future(e.g. estic parlant, estava parlant, estaré parlant )
 - [ ] test and delete gramatically impossible times
