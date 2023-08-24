@@ -28,7 +28,9 @@ In conversation you need to know a specific conjugation on the spot, without men
 	- [ ] 	User input: wrong answer: "<- arrow" right answer: "-> arrow"
 - [ ] database
 	- [x] browse for database options
- 	- [o] add test database of three verbs with SQLite
+ 	- [ ] add test database of three verbs with SQLite
+        - [x] put test verbs in csv file
+        - [ ] Random error -> figure out how to upload csv with SQLite 
         - [x] think of database structure and headers
 
 
