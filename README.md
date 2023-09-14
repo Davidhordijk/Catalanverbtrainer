@@ -26,11 +26,10 @@ In conversation you need to know a specific conjugation on the spot, without men
 	- [ ] 	Keyword i.o. sentence output
  	- [ ] 	User input: enter to show answer
 	- [ ] 	User input: wrong answer: "<- arrow" right answer: "-> arrow"
-- [ ] database
+- [ ] Verb sheet integration
 	- [x] browse for database options
- 	- [ ] add test database of three verbs with SQLite
+ 	- [ ] add test verb sheet of three verbs with csv
         - [x] put test verbs in csv file
-        - [ ] Random error -> figure out how to upload csv with SQLite 
         - [x] think of database structure and headers
 
 
