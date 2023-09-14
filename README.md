@@ -24,13 +24,14 @@ In conversation you need to know a specific conjugation on the spot, without men
 - [ ] interface
 	- [ ] 	Make window stable
 	- [ ] 	Keyword i.o. sentence output
- 	- [ ] 	User input: enter to show answer
+ 	- [x] 	User input: click to show if answer is correct
 	- [ ] 	User input: wrong answer: "<- arrow" right answer: "-> arrow"
 - [ ] Verb sheet integration
 	- [x] browse for database options
- 	- [ ] add test verb sheet of three verbs with csv
+ 	- [x] add test verb sheet of three verbs with csv
         - [x] put test verbs in csv file
         - [x] think of database structure and headers
+        - [ ] make sure all tenses work, with if-then statements for composite tenses
 
 
 Later:
