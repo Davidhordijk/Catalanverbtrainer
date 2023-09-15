@@ -32,8 +32,12 @@ In conversation you need to know a specific conjugation on the spot, without men
         - [x] put test verbs in csv file
         - [x] think of database structure and headers
         - [ ] make sure all tenses work, with if-then statements for composite tenses
+        - [x] fix plusquamperfet
+        - [x] fix perfet
+        - [x] fix passat perifrastic
 
 
 Later:
 - [ ] Think of logical place for gerundi's, past/present/future(e.g. estic parlant, estava parlant, estaré parlant )
 - [ ] test and delete gramatically impossible times
+- [ ] fix imperatiu (if only imperatiu and all tenses are selected, sometimes it still becomes indicatiu)
