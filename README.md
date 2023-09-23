@@ -21,23 +21,36 @@ In conversation you need to know a specific conjugation on the spot, without men
  - [x] Teksten kloppend: 
 
 ** V2 **
-- [ ] interface
-	- [ ] 	Make window stable
-	- [ ] 	Keyword i.o. sentence output
+- [x] Interface
+	- [x] 	Make window stable
+	- [x] 	Keyword i.o. sentence output
  	- [x] 	User input: click to show if answer is correct
-	- [ ] 	User input: wrong answer: "<- arrow" right answer: "-> arrow"
+        - [ ] User flow
+               - [ ] make enter key displace where user can give input
+               - [ ] add text to make app self-explanatory
+               - [ ] display error if verb is not in database 
+
 - [ ] Verb sheet integration
 	- [x] browse for database options
  	- [x] add test verb sheet of three verbs with csv
         - [x] put test verbs in csv file
         - [x] think of database structure and headers
-        - [ ] make sure all tenses work, with if-then statements for composite tenses
+        - [x] make sure all tenses work, with if-then statements for composite tenses
         - [x] fix plusquamperfet
         - [x] fix perfet
         - [x] fix passat perifrastic
+        - [ ] add irregular verbs
+        - [ ] think of way to recognise and classify regular verbs so that all of the can be used without having a database with all of them in there
+
+
+** V3 **
+- [ ] User progress
+	- [ ] think of first way to track user progress: profile that can store info?
+ 	- [ ] 
 
 
 Later:
 - [ ] Think of logical place for gerundi's, past/present/future(e.g. estic parlant, estava parlant, estaré parlant )
-- [ ] test and delete gramatically impossible times
+- [x] test and delete gramatically impossible times
 - [ ] fix imperatiu (if only imperatiu and all tenses are selected, sometimes it still becomes indicatiu)
+- [ ] duocards like flow: 	- [ ] 	User input: wrong answer: "<- arrow" right answer: "-> arrow"
