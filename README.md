@@ -46,11 +46,13 @@ In conversation you need to know a specific conjugation on the spot, without men
 ** V3 **
 - [ ] User progress
 	- [ ] think of first way to track user progress: profile that can store info?
- 	- [ ] 
+
+ - [ ] Better looks (drop the windows XP vibe)
 
 
-Later:
+
+Later / Maybe:
 - [ ] Think of logical place for gerundi's, past/present/future(e.g. estic parlant, estava parlant, estaré parlant )
 - [x] test and delete gramatically impossible times
 - [ ] fix imperatiu (if only imperatiu and all tenses are selected, sometimes it still becomes indicatiu)
-- [ ] duocards like flow: 	- [ ] 	User input: wrong answer: "<- arrow" right answer: "-> arrow"
+- [ ] duocards like flow: User input: wrong answer: "<- arrow" right answer: "-> arrow"
