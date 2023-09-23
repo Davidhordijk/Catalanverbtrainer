@@ -26,9 +26,9 @@ In conversation you need to know a specific conjugation on the spot, without men
 	- [x] 	Keyword i.o. sentence output
  	- [x] 	User input: click to show if answer is correct
         - [ ] User flow
-               - [ ] make enter key displace where user can give input
-               - [ ] add text to make app self-explanatory
-               - [ ] display error if verb is not in database 
+        	- [ ] make enter key displace where user can give input
+        	- [ ] add text to make app self-explanatory
+         	- [ ] display error if verb is not in database 
 
 - [ ] Verb sheet integration
 	- [x] browse for database options
