@@ -25,7 +25,7 @@ In conversation you need to know a specific conjugation on the spot, without men
 	- [x] 	Make window stable
 	- [x] 	Keyword i.o. sentence output
  	- [x] 	User input: click to show if answer is correct
-        - [ ] User flow
+        - [ ]   User flow
         	- [ ] make enter key displace where user can give input
         	- [ ] add text to make app self-explanatory
          	- [ ] display error if verb is not in database 
@@ -46,6 +46,9 @@ In conversation you need to know a specific conjugation on the spot, without men
 ** V3 **
 - [ ] User progress
 	- [ ] think of first way to track user progress: profile that can store info?
+ - [ ] check if minor spelling mistakes.
+ - [ ] work through all forms, check if user has answered them before - spaced repetition
+ - [ ] haver imperatiu (from Adri chat)
 
  - [ ] Better looks (drop the windows XP vibe)
 
