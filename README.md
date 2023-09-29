@@ -27,7 +27,7 @@ In conversation you need to know a specific conjugation on the spot, without men
  	- [x] 	User input: click to show if answer is correct
         - [ ]   User flow
         	- [x] make enter key displace where user can give input
-                - [ ] make enter click visible
+                - [x] make enter click visible
         	- [x] add text to make app self-explanatory
      		- [x] 3 tries, then display answer and go back to beginning
          	- [ ] display error if verb is not in database 
