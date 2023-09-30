@@ -30,7 +30,8 @@ In conversation you need to know a specific conjugation on the spot, without men
                 - [x] make enter click visible
         	- [x] add text to make app self-explanatory
      		- [x] 3 tries, then display answer and go back to beginning
-         	- [ ] display error if verb is not in database 
+         	- [x] display error if verb is not in database
+                - [ ] Fix jumping of elements when things change
 
 - [ ] Verb sheet integration
 	- [x] browse for database options
