@@ -25,13 +25,14 @@ In conversation you need to know a specific conjugation on the spot, without men
 	- [x] 	Make window stable
 	- [x] 	Keyword i.o. sentence output
  	- [x] 	User input: click to show if answer is correct
-        - [ ]   User flow
+        - [x]   User flow
         	- [x] make enter key displace where user can give input
                 - [x] make enter click visible
         	- [x] add text to make app self-explanatory
      		- [x] 3 tries, then display answer and go back to beginning
          	- [x] display error if verb is not in database
-                - [ ] Fix jumping of elements when things change
+                - [x] delete input after correct answer or three tries.
+
 
 - [ ] Verb sheet integration
 	- [x] browse for database options
@@ -42,9 +43,15 @@ In conversation you need to know a specific conjugation on the spot, without men
         - [x] fix plusquamperfet
         - [x] fix perfet
         - [x] fix passat perifrastic
-        - [ ] add irregular verbs
-        - [ ] think of way to recognise and classify regular verbs so that all of the can be used without having a database with all of them in there
+        - [x] add some irregular verbs
+        - [x] add some regular verbs
+        - [ ] Fix 1NF
 
+- [ ] Make ready to send to people
+        - [ ] Transform into .exe
+        - [ ] Make Readme
+        - [ ] Zip it
+        - [ ] Send it
 
 ** V3 **
 - [ ] User progress
@@ -62,3 +69,8 @@ Later / Maybe:
 - [x] test and delete gramatically impossible times
 - [ ] fix imperatiu (if only imperatiu and all tenses are selected, sometimes it still becomes indicatiu)
 - [ ] duocards like flow: User input: wrong answer: "<- arrow" right answer: "-> arrow"
+- [ ] Fix jumping of elements when things change
+- [ ] random verb button
+- [ ] add reflexive verbs and program pronouns (for all forms, probably easier)
+- [ ] add rest of regular verbs / make system
+- [ ] think of way to recognise and classify regular verbs so that all of the can be used without having a database with all of them in there
