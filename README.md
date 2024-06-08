@@ -34,7 +34,7 @@ In conversation you need to know a specific conjugation on the spot, without men
                 - [x] delete input after correct answer or three tries.
 
 
-- [ ] Verb sheet integration
+- [x] Verb sheet integration
 	- [x] browse for database options
  	- [x] add test verb sheet of three verbs with csv
         - [x] put test verbs in csv file
@@ -45,26 +45,44 @@ In conversation you need to know a specific conjugation on the spot, without men
         - [x] fix passat perifrastic
         - [x] add some irregular verbs
         - [x] add some regular verbs
-        - [ ] Fix 1NF
+        - [x] Fix 1NF
 
-- [ ] Make ready to send to people
-        - [ ] Transform into .exe
-        - [ ] Make Readme
-        - [ ] Zip it
-        - [ ] Send it
+- [x] Make ready to send to people
+        - [x] Transform into .exe
+        - [x] Make Readme
+        - [x] Zip it
+        - [x] send it
 
-** V3 **
+** V3 Web version ** 
+
+- [ ] Project outlining
+ 	- [in progress] Watch and work through Django set-up video
+
+
 - [ ] User progress
 	- [ ] think of first way to track user progress: profile that can store info?
- - [ ] check if minor spelling mistakes.
- - [ ] work through all forms, check if user has answered them before - spaced repetition
- - [ ] haver imperatiu (from Adri chat)
 
- - [ ] Better looks (drop the windows XP vibe)
+ - [ ] Interaction modes
+		- [ ] Classic, train clicked tenses
+			- [ ] Random verb option
+		- [ ] Contextual, train conjugations in sentences
+			- [ ] Ennumerate contexts for tenses
+ 			
+
+- [ ] haver imperatiu (from Adri chat)
+
+- [ ] Interface (drop the windows XP vibe)
+
+- [ ] Deployment
+
+
 
 
 
 Later / Maybe:
+
+- [ ] work through all forms, check if user has answered them before - spaced repetition
+- [ ] check if minor spelling mistakes.
 - [ ] Think of logical place for gerundi's, past/present/future(e.g. estic parlant, estava parlant, estaré parlant )
 - [x] test and delete gramatically impossible times
 - [ ] fix imperatiu (if only imperatiu and all tenses are selected, sometimes it still becomes indicatiu)
